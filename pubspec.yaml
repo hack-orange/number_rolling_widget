@@ -1,0 +1,33 @@
+name: number_rolling_widget
+description: "A Flutter widget for rolling numbers."
+version: 0.0.1
+homepage: "https://github.com/hack-orange/number_rolling_widget"
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+additional_information:
+  # 使用指南
+  usage_guidelines: |
+    To use the `NumberRollingWidget`, simply add it to your widget tree and provide
+    the `endValue` property. You can customize the animation duration, and the widget
+    will smoothly transition to the specified number.
+
+  # 贡献指南
+  contributing_guidelines: |
+    Contributions are welcome! If you have any issues or feature requests, please
+    open an issue on GitHub. Pull requests are also appreciated.
+
+  # 许可证信息
+  license: MIT
+
