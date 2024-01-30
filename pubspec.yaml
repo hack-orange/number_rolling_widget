@@ -1,4 +1,4 @@
-name: number_rolling_widget
+name: number_rolling
 description: "A Flutter widget for rolling numbers."
 version: 0.0.1
 homepage: "https://github.com/hack-orange/number_rolling_widget"

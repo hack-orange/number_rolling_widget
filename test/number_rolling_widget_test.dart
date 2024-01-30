@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter/material.dart';
-import 'package:number_rolling_widget/number_rolling.dart';
+import 'package:number_rolling/number_rolling.dart';
 
 void main() {
   testWidgets('NumberRollingWidget displays correct value', (WidgetTester tester) async {
